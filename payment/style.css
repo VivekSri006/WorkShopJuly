@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Encode+Sans+SC&display=swap");
+
+body {
+  background: linear-gradient(100deg, #abbae0, #545d5eb4);
+  margin: 0;
+  padding: 0;
+}
+
+#carouselExampleDark {
+  border: 1px solid silver;
+  border-radius: 25px;
+  margin: 4rem 2rem 2rem 2rem;
+  width: 40%;
+  height: 50%;
+}
+.img {
+  height: 25rem;
+  border-radius: 25px;
+}
+.TxtDis {
+  cursor: pointer;
+  text-align: center;
+  /* text-transform: capitalize; */
+  font-size: 5rem;
+  border-radius: 25px;
+  font-family: "Dancing Script", cursive;
+  border-bottom: 3px solid silver;
+}
+.container {
+  display: flex;
+}
+.container2 {
+  box-shadow: 1rem 1rem 0.2rem 0.2rem #adaeb1;
+  background: #eaecef;
+  height: 25rem;
+  padding: 2rem 2rem 1rem 1rem;
+  font-family: "Encode Sans SC", sans-serif;
+  margin: 4rem 1rem 0 4rem;
+  border: 1px solid transparent;
+  border-radius: 25px;
+  width: 40%;
+}
+.btn-primary {
+  margin-left: 4rem;
+  align-items: center;
+  padding: 5px 0 5px 0;
+  width: 80%;
+  margin-bottom: 15px;
+}
+.container2 .fora p {
+  border-top: 1px solid rgba(49, 67, 100, 0.411);
+  padding-top: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+.btn-secondary {
+  margin-left: 4rem;
+  align-items: center;
+  padding: 5px 0 5px 0;
+  width: 80%;
+}
+.access h2 {
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
+.access p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.txtDis2 {
+  border-top: 1px solid #adaeb1;
+  margin-top: 4rem;
+  font-size: 4rem;
+  text-align: center;
+}
+.pym-btn {
+  width: 6rem;
+  border-radius: 5px;
+  background: rgb(81, 55, 224);
+  color: white;
+  margin-bottom: 5px;
+}
+.con1 {
+  background: #8cb6f5;
+  text-align: center;
+  margin: 2rem 2rem 2rem 9rem;
+  border: 2px solid rgb(14, 14, 15);
+  border-radius: 1.7rem;
+}
+.access {
+  display: flex;
+}
+.pimg1 {
+  border-radius: 25px;
+  height: 15rem;
+  width: 16rem;
+}

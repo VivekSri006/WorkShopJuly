@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  width: 18rem;
+  height: 18rem;
+  border: 3px solid black;
+}
+header {
+  width: 100%;
+  color: black;
+  text-align: center;
+  background: #f7c5ea;
+  height: 4rem;
+}
+header p {
+  font: bold;
+  padding: 22px;
+}
+
+main {
+  width: 65%;
+  text-align: center;
+  height: 10rem;
+}
+main p {
+  padding: 52px;
+}
+.panel {
+  width: 35%;
+  height: 10rem;
+  background: #bf5add;
+  text-align: center;
+  color: black;
+}
+.mid {
+  display: flex;
+}
+.panel p {
+  padding: 54px;
+  padding-left: 30px;
+}
+footer {
+  width: 100%;
+  text-align: center;
+  background: #d798f2;
+  height: 4rem;
+}
+footer p {
+  padding: 22px;
+}

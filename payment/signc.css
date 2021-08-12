@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Sansita:ital@1&display=swap");
+
+body {
+  background: linear-gradient(120deg, #dce4e2, #d4b7c3);
+  font-family: "Sansita", sans-serif;
+}
+#sign {
+  margin-left: 20%;
+  margin-top: 5rem;
+  width: 60%;
+}
+.back-btn {
+  width: 6rem;
+  margin-top: 14px;
+  margin-left: 12px;
+  padding: 2px 2px 2px 2px;
+  background: #6c92ca;
+  margin-bottom: 0.5rem;
+}
+form {
+  margin-top: 1rem;
+  border-radius: 25px;
+  border-top: 3px solid rgb(87, 83, 83);
+}
+.btn-pri {
+  background: rgb(42, 115, 199);
+  width: 20%;
+
+  margin-top: 2rem;
+  margin-left: 21rem;
+}
